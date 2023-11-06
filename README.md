@@ -1,11 +1,9 @@
 # ⚡ About Me
 
-## Hello World! Soorya here
-
+#### Initializing... "Hello, World!" Boot_Mode: Soorya engaged.
 
 🔭 Currently Working On:
 **OWASP TCET**'s Website: [![OWASP TCET](https://img.shields.io/badge/OWASP%20TCET-%230077B5?style=for-the-badge&logo=owasp&logoColor=%23AACCFF&color=%23003377)](https://owasp-tcet.vercel.app/)
-
 
 # 🌍 Connect with Me; 
 &nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-srihari-0a1ab6257/)
