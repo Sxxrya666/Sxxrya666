@@ -3,11 +3,12 @@
 ## Hello World! Soorya here
 
 
-🔭 **Currently Working On ***OWASP TCET's Website:** [OWASP TCET](https://owasp-tcet.vercel.app/)
+🔭 Currently Working On:
+**OWASP TCET**'s Website: [![OWASP TCET](https://img.shields.io/badge/OWASP%20TCET-%230077B5?style=for-the-badge&logo=owasp&logoColor=%23AACCFF&color=%23003377)](https://owasp-tcet.vercel.app/)
 
-## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-srihari-0a1ab6257/)
+# 🌍 Connect with Me; 
+&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-srihari-0a1ab6257/)
 
 # 💻 Tech Stack
 
@@ -50,7 +51,7 @@
 
 # 😜 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
 
 ---
 
