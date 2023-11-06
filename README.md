@@ -1,7 +1,8 @@
 # ⚡ About Me
 
-#### Initializing... "Hello, World!" Boot_Mode: Soorya engaged.
-
+Initializing... <br>
+Boot_Mode: Soorya engaged.<br>
+▄︻デ══━一💨  ⌞Hello, World!⌝ <br>`
 🔭 Currently Working On:
 **OWASP TCET**'s Website: [![OWASP TCET](https://img.shields.io/badge/OWASP%20TCET-%230077B5?style=for-the-badge&logo=owasp&logoColor=%23AACCFF&color=%23003377)](https://owasp-tcet.vercel.app/)
 
