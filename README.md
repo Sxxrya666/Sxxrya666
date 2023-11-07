@@ -1,12 +1,18 @@
-# ⚡ About Me
+## 🧿 About Me
 
-Initializing... <br>
-Boot_Mode: Soorya engaged.<br>
-▄︻デ══━一💨  ⌞Hello, World!⌝ <br>`
-# 🔭 Currently Working On:
+``Boot_Mode``: <b><i>Soorya engaged</i></b> <br><br>
+▄︻デ══━一💨  <strong> ⌞Hello, World! 👋🏽⌝ <strong><br>
+
+## 🔭 Currently Working On:
 **OWASP TCET**'s Website: [![OWASP TCET](https://img.shields.io/badge/OWASP%20TCET-%230077B5?style=for-the-badge&logo=owasp&logoColor=%23AACCFF&color=%23003377)](https://owasp-tcet.vercel.app/)
 
-# 🌍 Connect with Me; 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Soorya666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 👨🏽‍💻 My Hacktoberfest 2023:<br>
+[![An image of @soorya666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soorya666)](https://holopin.io/@soorya666)
+
+## 🌍 Connect with Me; 
 &nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorya-srihari-0a1ab6257/)
 
 # 💻 Tech Stack
@@ -34,17 +40,14 @@ Boot_Mode: Soorya engaged.<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soorya666&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Soorya666&theme=midnight-purple&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Soorya666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
