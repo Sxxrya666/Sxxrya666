@@ -1,9 +1,17 @@
-## 🧿 About Me
+## <p align="center">🧿 About Me</p>
 
-``Boot_Mode``: <b><i>Soorya engaged</i></b> <br><br>
-▄︻デ══━一💨  <strong> ⌞Hello, World! 👋🏽⌝ <strong><br>
+<div align="center">
 
-## 🔭 Currently Working On:
+**Boot_Mode**: <b><i>Soorya engaged</i></b>
+
+</div>
+
+<div align="center">
+▄︻デ══━一💨 🌫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong> ⌞Hello, World! 👋🏽⌝ <strong><br>
+</div>
+
+
+## 🔭 Currently Working On: <br>
 **OWASP TCET**'s Website: [![OWASP TCET](https://img.shields.io/badge/OWASP%20TCET-%230077B5?style=for-the-badge&logo=owasp&logoColor=%23AACCFF&color=%23003377)](https://owasp-tcet.vercel.app/)
 
 ## 🏆 GitHub Trophies
