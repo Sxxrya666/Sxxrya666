@@ -1,8 +1,9 @@
+## <h1"> Hello World 👋🏽</h1>
 ## <p align="center">🧿 About Me</p>
 
 <div align="center">
 
-**Boot_Mode**⟳ : <b><i>dev_mode engaged</i></b>
+**Boot_Mode** &nbsp;⟳ : <b><i>dev_mode engaged ...</i></b>
 
 </div>
 
@@ -46,19 +47,11 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-
-
-
 ---
-## ✍️ Random Dev Quote
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-# 😜 Random Dev Meme
-
 
 [![](https://visitcount.itsvg.in/api?id=mehBOOBa&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
