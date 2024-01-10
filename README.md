@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Boot_Mode ⟳ **: <b><i>dev_mode engaged</i></b>
+**Boot_Mode**⟳ : <b><i>dev_mode engaged</i></b>
 
 </div>
 
