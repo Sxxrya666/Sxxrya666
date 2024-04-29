@@ -1,9 +1,8 @@
-## <h1> Hello World 👋🏽</h1>
-## <p align="center">🧿 About Me</p>
 
 <div align="center">
 
-**Boot_Mode** &nbsp;⟳ : <b><i>dev_mode engaged ...</i></b>
+**Boot_Mode** &nbsp;⟳ <br> 
+ <b><i>dev_mode engaged ...</i></b>
 
 </div>
 
