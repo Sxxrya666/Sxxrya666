@@ -37,20 +37,26 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; margin: 10px auto;">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soorya666&theme=midnight-purple&hide_border=false)
+  <a href="https://github.com/Soorya666" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats (Soorya666)" style="width: 30%; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); margin: 5px;" />
+  </a>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://github.com/Soorya666" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soorya666&theme=midnight-purple&hide_border=false" alt="GitHub Streak (Soorya666)" style="width: 30%; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); margin: 5px;" />
+  </a>
+
+  <a href="https://github.com/Soorya666" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soorya666&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages (Soorya666)" style="width: 30%; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); margin: 5px;" />
+  </a>
 
 </div>
----
 
+
+
+***
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
+***
 [![](https://visitcount.itsvg.in/api?id=mehBOOBa&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
