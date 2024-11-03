@@ -1,7 +1,7 @@
 
 <div align="center">
 
-**Boot_Mode** &nbsp;⟳ <br> 
+**Booting...** &nbsp;⟳ <br> 
  <b><i>dev_mode engaged ...</i></b>
 
 </div>
